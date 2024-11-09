@@ -1,8 +1,8 @@
 /* body{
     background: linear-gradient(to right, red, yellow);
 } */
-
-h1{
+/* Vishwas Singhi */
+h1 {
     text-align: center;
     font-size: 3em;
     text-transform: uppercase;
@@ -10,23 +10,26 @@ h1{
     letter-spacing: 0.5em;
     width: 100%;
 }
+
 h2 {
     text-align: center;
-    font-size: 2em; /* 3 times the normal size of 8px */
+    font-size: 2em;
+    /* 3 times the normal size of 8px */
     text-transform: uppercase;
     letter-spacing: 0.1em;
     width: 100%;
 }
-.inputColor{
+
+.inputColor {
     display: flex;
     justify-content: center;
 }
 
-.inputColor > input[type=color]{
+.inputColor>input[type=color] {
     margin: 0px 10px;
     width: 5em;
 }
 
-h3{
+h3 {
     text-align: center;
 }
